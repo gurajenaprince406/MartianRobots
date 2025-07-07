@@ -1,3 +1,11 @@
+using Microsoft.VisualStudio.TestPlatform.TestHost;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using Xunit;
+using MartianRobots.Commands;
+using MartianRobots.GridSystem;
+
 namespace MartianRobots.Tests
 {
     public class RobotTests
