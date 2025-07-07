@@ -56,3 +56,20 @@ Keeping the solution simple and focused
 Following SOLID principles (especially with the command pattern)
 
 The solution is extensible for new commands and maintains clean separation of concerns.
+How to run the Application:
+
+Press F5 to run
+
+The program will wait for input - you can paste the sample input:
+
+text
+5 3
+1 1 E
+RFRFRFRF
+3 2 N
+FRRFLLFFRRFLL
+0 3 W
+LLFFFLFLFL
+Press Ctrl+Z then Enter to signal end of input (or Ctrl+D on some systems)
+
+You should see the sample output
